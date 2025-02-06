@@ -277,22 +277,4 @@ Esto ejecutará la API en modo de desarrollo en http://127.0.0.1:8000.
 
 Este proyecto forma parte de una iniciativa académica para mejorar la gestión del mantenimiento en la Facultad de Contaduría y Administración, Campus I de la UNACH. La implementación se basará en estudios previos y mejores prácticas en sistemas de mantenimiento asistidos por computadora (**CMMS**).
 
-## 8️⃣ 📜 Licencia
-
-Este proyecto está licenciado bajo la **Licencia Privada**:
-
-```
-Licencia Privada
-
-Todos los derechos reservados © 2025
-
-Este software y su documentación están protegidos por derechos de autor. Su uso, distribución, modificación o reproducción total o parcial están estrictamente prohibidos sin la autorización expresa y por escrito de los titulares del derecho de autor.
-
-Este software solo puede ser utilizado por la Universidad Autónoma de Chiapas (UNACH) y su personal autorizado. Cualquier uso no autorizado puede resultar en acciones legales.
-
-Este software se proporciona "TAL CUAL", sin garantía de ningún tipo, expresa o implícita, incluyendo pero no limitado a garantías de comerciabilidad, idoneidad para un propósito particular y no infracción. En ningún caso los autores o titulares del copyright serán responsables de ninguna reclamación, daño o responsabilidad, ya sea en una acción contractual, agravio o cualquier otra forma, que surja del uso del software.
-```
-
----
-
 ✅ **Este documento proporciona un marco estructurado para el desarrollo del sistema de mantenimiento, asegurando claridad en los objetivos, requisitos y metodología.** 🚀
